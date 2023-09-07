@@ -16,7 +16,7 @@ LTI{Load Rails RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn
 
 Then, fork the repository and create your codespace.
 
-You can use the code from Sinatra Rock, Paper, Scissors to match the target; but it will need to be rewritten in the Rails framework. You should also keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120); it's a good reference for building Rails routes.
+You can use the code from Sinatra Rock, Paper, Scissors to match the target; but it will need to be rewritten in the Rails framework. You should also keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120-rcav-flowchart); it's a good reference for building Rails routes.
 
 When you think you have the target matched, run `rake grade` to get automated feedback.
 
